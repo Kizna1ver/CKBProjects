@@ -1,11 +1,11 @@
 ## Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
 
 #### 1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
-![image.png](https://i.loli.net/2021/08/07/cK6PTr3feR1DVi2.png)
+![alt text](1.png)
 #### 2. The transaction hash from the console output (in text format).
-0xe7e2084c56efc0162a463c7da9f2ba19aa214159fc12cd4cab3209b1950d99f2
+0x9fec29789d3c5a6e7fe194859b10493765e9f538ce4df5fc98e09220a79379e6
 #### 3. The contract address that you called (in text format).
-0xA388961e6eF11E16D22b8b11ADb3250a8d27B760
+0x684f3d5208a0b7199a0000dB52777375cee27829
 #### 4. The ABI for contract you made a call on (in text format).
 ```json
 [
