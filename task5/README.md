@@ -1,12 +1,12 @@
 ## Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
 #### A screenshot of the console output immediately after deploying smart contract.
-![image.png](https://i.loli.net/2021/08/07/QCkAmZbdazNMJln.png)
+![alt text](1.png)
 #### The address of the ERC20 Proxy Contract you deployed (in text format).
-0x64Dc0a9b826132157d9e20cA9C7C64049481837c
+0xfE0A1c79384C4CF7F26D357fe4E127e76Fa170B3
 #### A screenshot of the console output immediately after checking your SUDT balance.
-![image.png](https://i.loli.net/2021/08/07/BGxHPYEqItws69F.png)
+![alt text](2.png)
 #### The Ethereum address that was checked (in text format).
-0x5e21218B2669e5Ee79E29cF905Af8BeB36609ac9
+0xc7710FBf294205437EC365a4B194E7E901afBb04
 #### Bonus
-![image.png](https://i.loli.net/2021/08/07/RHM67dG8UV3AIwb.png)
+![alt text](3.png)
