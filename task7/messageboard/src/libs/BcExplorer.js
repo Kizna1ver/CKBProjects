@@ -4,6 +4,7 @@ import { CONFIG } from '../assets/config.ts';
 
 const { PolyjuiceHttpProvider, PolyjuiceAccounts } = require("@polyjuice-provider/web3");
 // import { AddressTranslator } from 'nervos-godwoken-integration';
+// const { AddressTranslator } = require('nervos-godwoken-integration');
 // const AddressTranslator = require('./nervos-godwoken-integration.js')
 
 class BcExplorer {
@@ -15,7 +16,7 @@ class BcExplorer {
         this.info = {
             isConnected: false,
             networkId: 0,
-            coinbase: null,
+            coinbase: null, 
             mainAccount: null,
             balance: 0,
             addressUrl: null,
