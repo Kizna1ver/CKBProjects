@@ -12,9 +12,11 @@
     "core-js": "^3.6.5",
     "mitt": "^3.0.0",
     "nervos-godwoken-integration": "0.0.6",
+    "qs": "^6.10.1",
     "shelljs": "^0.8.4",
     "tiny-emitter": "^2.1.0",
     "vue": "^3.0.0",
+    "vue-axios": "^3.2.5",
     "vue-router": "^4.0.0",
     "vue-tsx-loader": "^0.1.4",
     "web3": "^1.4.0"
